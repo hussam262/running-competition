@@ -1,0 +1,23 @@
+CN 101 (HN)  has overall score 1.6
+CN 500 (MAA)  has overall score 2.65
+CN 999 (JDG)  has overall score 1.8
+CN 1 (CJ)  has overall score 4.0
+CN 121 (AS)  has overall score 5.0
+CN 30 (MAR)  has overall score 2.4
+CN 595 (JAM)  has overall score 3.0
+CN 123 (FB)  has overall score 3.0
+CN 400 (AM)  has overall score 3.0
+CN 200 (ULB)  has overall score 2.8
+CN 12 (AM)  has overall score 2.67
+CN 919 (RC)  has overall score 5.0
+CN 111 (CR)  has overall score 1.55
+CN 9 (MN)  has overall score 3.67
+CN 11 (NJ)  has overall score 1.6
+CN 50 (IM)  has overall score 3.0
+CN 8 (DB)  has overall score 1.8
+CN 30 (MO)  has overall score 4.0
+CN 300 (BN)  has overall score 2.5
+CN 1414 (MN)  has overall score 4.2
+
+The Winner between all competitors is : 
+Competitor no is 121 ,Competitor name is Ahmad  Sultan from UAE ,his level is Athlete ,he runs in Long distance races and received these scores [5, 5, 5, 5, 5] and his overall score is 5.0

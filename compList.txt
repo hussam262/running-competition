@@ -1,0 +1,20 @@
+101/Husam///Jordan/1,2,3,-4,-3/123
+500/Mohamad Ahmad Alshehi/Beginner/Middle distance//5,4,3,2,1
+999/John David Gonzales/Average/Long distance/USA/1,1,2,2,3
+1/Chris Jaber/Professional/Hurdle/Lebanon/4,3,2,1,4
+121/Ahmad Sultan/Athlete/Long distance/UAE/5,5,5,5,5
+30/Mohannad Abdelnaser Rahhal/Average/Middle distance/Jordan/4,4,2,1,2
+595/Juan Arturo Miguel/Beginner/Hurdle/Spain/3,3,3,2,2
+123/Faisal Bogherra/Professional/Short distance/Algeria/1,2,1,3,4
+400/Adis Mohammad/Athlete/Long distance/Nigeria/1,1,5,5,3
+200/Usain Leo Bolt/Average/Middle distance/Jamaica/5,3,4,1,2
+12/Ahmed Marwan/Professional/Short distance/USA/1,2,2,3,3
+919/Roberto Carlos/Average/Hurdle/UAE/1,2,1,4,5
+111/Cristiano Ronaldo/Professional/Middle distance/Portugal/1,2,1,3,1
+9/Messi/Beginner/Short distance/Argentina/4,2,4,3,1
+11/Neymar Jr/Average/Long Distance/Brazil/1,2,1,2,2
+50/Ismail Matar/Beginner/Hurdle/UAE/1,2,2,3,1
+8/De Bruyne/Average/Other/Belgium/1,0,0,3,3
+30/Mesut Ozil/Professional/Short Distance/Germany/2,0,5,4,3
+300/Benzema/Average/Middle Distance/France/4,4,4,0,0
+1414/Mbpape/Professional/Long Distance/France/5,5,5,3,3
